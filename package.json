@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Lab exercise in week 8",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laufey92/labWeek8.git"
+  },
+  "author": "Laufey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laufey92/labWeek8/issues"
+  },
+  "homepage": "https://github.com/laufey92/labWeek8#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
